@@ -1,0 +1,6 @@
+# don't include the dockerproxy binary, don't need to include binaries
+src/dockerproxy
+
+# don't include vim files
+*.swp
+*.swo
